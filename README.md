@@ -1,7 +1,9 @@
 alternative-viewpoint
 =========
 
-Add-on that calculates statistics for wikipedia usage
+You are reading an article, but there are other points of view about the same event. Click the addon button to find out.
+
+https://addons.mozilla.org/en-US/firefox/addon/alternative-viewpoint/
 
 Building
 -----
